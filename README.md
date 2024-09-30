@@ -73,5 +73,18 @@ graph TD
       ![image](https://github.com/user-attachments/assets/f92faa7e-0f05-4198-b9c0-065cb6ba7cf4)
       ![image](https://github.com/user-attachments/assets/b512109e-3587-4996-806d-7d73d79b67fa)
 
+## Configure a static website on Amazon S3
+  1. Make sure you're back in your bucket's page. If you're not sure, choose buckets on the left hand side navigation bar, and then choose the bucket you created for this project.
+  2. Choose the `Properties` tab.
+     ![image](https://github.com/user-attachments/assets/49250e25-9bf2-4198-92a5-9d306ab013f5)
 
+  3. Scroll all the way down to the `Static website hosting` panel.
+  4. Choose `Edit`.
+     ![image](https://github.com/user-attachments/assets/a662926f-b6e3-4d47-9b1d-2474ad5cb857)
+
+  5. Configure the following settings:
+     - **Static web hosting**: Choose `Enable`.
+     - **Hosting type**: Choose Host a `static website`.
+     - **Index document**: Enter `index.html`.
+   ![image](https://github.com/user-attachments/assets/c7ff1e00-9c57-40d2-84e4-843a58d02c4f)
 
