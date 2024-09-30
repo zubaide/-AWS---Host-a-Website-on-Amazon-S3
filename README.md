@@ -88,3 +88,9 @@ graph TD
      - **Index document**: Enter `index.html`.
    ![image](https://github.com/user-attachments/assets/c7ff1e00-9c57-40d2-84e4-843a58d02c4f)
 
+## Use ACLs to make objects in your S3 bucket public
+   1. Let's make the uploaded objects publicly accessible so users can view your website.
+      ![image](https://github.com/user-attachments/assets/006cb39e-41a0-4c64-b80d-d6336cb97aaa)
+      
+
+
